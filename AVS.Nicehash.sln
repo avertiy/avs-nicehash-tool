@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.Nicehash", "AVS.Nicehash\AVS.Nicehash.csproj", "{4C8F5F80-56F0-4C79-AB28-3A69DDA95D5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVS.Nicehash.Api", "AVS.Nicehash.Api\AVS.Nicehash.Api.csproj", "{86D1EE77-B794-4D2F-B6BB-F96D683BA804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8F5F80-56F0-4C79-AB28-3A69DDA95D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8F5F80-56F0-4C79-AB28-3A69DDA95D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8F5F80-56F0-4C79-AB28-3A69DDA95D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8F5F80-56F0-4C79-AB28-3A69DDA95D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D1EE77-B794-4D2F-B6BB-F96D683BA804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D1EE77-B794-4D2F-B6BB-F96D683BA804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D1EE77-B794-4D2F-B6BB-F96D683BA804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D1EE77-B794-4D2F-B6BB-F96D683BA804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E5F3934-9F91-4796-B105-0198ACD07DB7}
+	EndGlobalSection
+EndGlobal
